@@ -1,7 +1,4 @@
-# Add Rich Graphics to Your SwiftUI App
+# Find various projects of your interesd and consider contributing to them.
 
 Make your apps stand out by adding background materials, vibrancy, custom graphics, and animations.
 
-## Overview
-
-- Note: This sample code project is associated with WWDC21 session 10021: [Add Rich Graphics to Your SwiftUI App](https://developer.apple.com/wwdc21/10021/).
